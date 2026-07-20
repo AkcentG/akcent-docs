@@ -1,0 +1,273 @@
+/* ==========================================================
+   AKCENT DOCS DESIGN SYSTEM
+   Built for Astro Starlight
+   Version 2.0
+========================================================== */
+
+/* ==========================================================
+   1. Root Theme
+========================================================== */
+
+:root {
+  --sl-color-accent: #2563eb;
+  --sl-color-accent-high: #3b82f6;
+
+  --ak-radius: 14px;
+  --ak-radius-small: 8px;
+
+  --ak-transition: 0.2s ease;
+
+  --ak-shadow:
+    0 4px 14px rgba(0,0,0,.10);
+
+  --ak-shadow-hover:
+    0 8px 22px rgba(0,0,0,.18);
+}
+
+/* ==========================================================
+   2. Typography
+========================================================== */
+
+.sl-markdown-content h1{
+    margin-bottom:1rem;
+    font-size:2.6rem;
+    line-height:1.2;
+}
+
+.sl-markdown-content h2{
+    margin-top:3rem;
+    margin-bottom:1rem;
+    border-bottom:1px solid var(--sl-color-hairline);
+    padding-bottom:.4rem;
+}
+
+.sl-markdown-content h3{
+    margin-top:2rem;
+    margin-bottom:.75rem;
+}
+
+.sl-markdown-content p{
+    line-height:1.8;
+    margin:1rem 0;
+}
+
+.sl-markdown-content ul,
+.sl-markdown-content ol{
+    line-height:1.8;
+}
+
+.sl-markdown-content li{
+    margin:.4rem 0;
+}
+
+/* ==========================================================
+   3. Links
+========================================================== */
+
+.sl-markdown-content a{
+
+    transition:var(--ak-transition);
+
+    text-decoration:none;
+
+    font-weight:500;
+}
+
+.sl-markdown-content a:hover{
+
+    text-decoration:underline;
+}
+
+/* ==========================================================
+   4. Cards
+========================================================== */
+
+.card{
+
+    border-radius:var(--ak-radius);
+
+    transition:all var(--ak-transition);
+
+    overflow:hidden;
+}
+
+.card:hover{
+
+    transform:translateY(-4px);
+
+    box-shadow:var(--ak-shadow-hover);
+}
+
+/* ==========================================================
+   5. Buttons
+========================================================== */
+
+.hero .action{
+
+    border-radius:999px;
+
+    transition:all var(--ak-transition);
+
+    font-weight:600;
+}
+
+.hero .action:hover{
+
+    transform:translateY(-2px);
+}
+
+/* ==========================================================
+   6. Tables
+========================================================== */
+
+.sl-markdown-content table{
+
+    width:100%;
+
+    border-collapse:collapse;
+
+    overflow:hidden;
+
+    border-radius:var(--ak-radius);
+
+    margin:2rem 0;
+}
+
+.sl-markdown-content th{
+
+    padding:14px;
+
+    text-align:left;
+
+    font-weight:700;
+
+    border-bottom:2px solid var(--sl-color-hairline);
+}
+
+.sl-markdown-content td{
+
+    padding:14px;
+
+    border-bottom:1px solid var(--sl-color-hairline);
+}
+
+.sl-markdown-content tbody tr:hover{
+
+    background:rgba(255,255,255,.03);
+}
+
+/* ==========================================================
+   7. Code
+========================================================== */
+
+.sl-markdown-content pre{
+
+    border-radius:var(--ak-radius);
+
+    padding:1rem;
+
+    overflow-x:auto;
+}
+
+.sl-markdown-content code{
+
+    border-radius:6px;
+
+    padding:.15rem .35rem;
+}
+
+/* ==========================================================
+   8. Blockquotes
+========================================================== */
+
+.sl-markdown-content blockquote{
+
+    border-left:4px solid var(--sl-color-accent);
+
+    padding-left:1rem;
+
+    margin:2rem 0;
+}
+
+/* ==========================================================
+   9. Images
+========================================================== */
+
+.sl-markdown-content img{
+
+    border-radius:var(--ak-radius);
+
+    box-shadow:var(--ak-shadow);
+
+    margin:1.5rem auto;
+
+    display:block;
+
+    max-width:100%;
+}
+
+/* ==========================================================
+   10. Sidebar
+========================================================== */
+
+.sidebar-content a{
+
+    border-radius:8px;
+
+    transition:var(--ak-transition);
+}
+
+.sidebar-content a:hover{
+
+    transform:translateX(4px);
+}
+
+/* ==========================================================
+   11. Footer
+========================================================== */
+
+footer{
+
+    border-top:1px solid var(--sl-color-hairline);
+
+    margin-top:5rem;
+
+    padding-top:2rem;
+}
+
+/* ==========================================================
+   12. Smooth Scrolling
+========================================================== */
+
+html{
+
+    scroll-behavior:smooth;
+}
+
+/* ==========================================================
+   13. Mobile
+========================================================== */
+
+@media (max-width:768px){
+
+.sl-markdown-content h1{
+
+font-size:2rem;
+
+}
+
+.sl-markdown-content h2{
+
+font-size:1.6rem;
+
+}
+
+.sl-markdown-content table{
+
+display:block;
+
+overflow:auto;
+
+}
+
+}
