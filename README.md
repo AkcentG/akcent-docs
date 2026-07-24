@@ -1,6 +1,21 @@
-# 📚 Akcent Docs
+# 📘 Akcent Docs
 
-> Community-maintained documentation for Restaurant Tycoon 3 Wiki editors.
+Community-maintained documentation for Restaurant Tycoon 3 Wiki editors.
+
+🌐 **Website**
+https://akcent-docs.pages.dev
+
+📂 **GitHub**
+https://github.com/AkcentG/akcent-docs
+
+## Features
+
+- Beginner-friendly editing guides
+- Wikitext reference library
+- Tips & Tricks
+- Useful Links
+- Community resources
+- Open source
 
 ---
 

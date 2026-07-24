@@ -8,17 +8,17 @@ Use this checklist before publishing a new version of Akcent Docs.
 
 ## Core Pages
 
-- [ ] Homepage
-- [ ] Introduction
-- [ ] Quick Start
-- [ ] Tips & Tricks
-- [ ] Questions & Answers
-- [ ] Useful Links
-- [ ] Reference Library
-- [ ] About
-- [ ] Contact
-- [ ] Credits
-- [ ] Disclaimer
+- [Y] Homepage
+- [Y] Introduction
+- [Y] Quick Start
+- [Y] Tips & Tricks
+- [Y] Questions & Answers
+- [Y] Useful Links
+- [Y] Reference Library
+- [Y] About
+- [Y] Contact
+- [Y] Credits
+- [Y] Disclaimer
 
 ---
 
