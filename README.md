@@ -7,7 +7,6 @@ https://akcent-docs.pages.dev
 
 📂 **GitHub**
 https://github.com/AkcentG/akcent-docs
-
 ## Features
 
 - Beginner-friendly editing guides
