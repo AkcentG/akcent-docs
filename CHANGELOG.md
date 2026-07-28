@@ -2,7 +2,52 @@
 
 All notable changes to **Akcent Docs** will be documented in this file.
 
-The format is based on **Keep a Changelog**, and this project follows **Semantic Versioning** where practical.
+The format is based on **Keep a Changelog**, and this project follows **Semantic Versioning**.
+
+---
+
+## [Unreleased]
+
+### 🚧 Planned
+
+Nothing yet.
+
+---
+
+## [1.1.0] - 2026-07-28
+
+### ✨ Added
+
+#### Website
+
+- Improved splash homepage
+- Better navigation structure
+- Improved sidebar organization
+- Additional documentation pages
+- Improved homepage layout
+- Updated custom styling
+
+#### Repository
+
+- Updated README
+- Updated package version to **1.1.0**
+- Improved release documentation
+
+### 🔄 Changed
+
+- Refined homepage content
+- Improved documentation wording
+- Updated project branding
+- Improved repository organization
+
+### 🐞 Fixed
+
+- Fixed Astro/Starlight hero image issues
+- Fixed image loading and asset path problems
+- Removed conflicting custom 404 page
+- Improved production build stability
+- Fixed Git synchronization issues
+- Successfully released **Akcent Docs v1.1.0**
 
 ---
 
@@ -10,18 +55,18 @@ The format is based on **Keep a Changelog**, and this project follows **Semantic
 
 ### 🎉 Initial Release
 
-This marks the first public version of **Akcent Docs**.
+The first public release of **Akcent Docs**.
 
 ### ✨ Added
 
 #### Website
 
-- Homepage redesign
+- Homepage
 - Responsive navigation
 - Sidebar organization
+- Search functionality
 - Community homepage
 - Custom design system
-- Search functionality
 
 #### Documentation
 
@@ -50,51 +95,37 @@ This marks the first public version of **Akcent Docs**.
 #### Features
 
 - Built with Astro + Starlight
-- Dark mode support
 - Responsive layout
-- Community-focused documentation
-- Beginner-friendly writing style
-
----
-
-## [Unreleased]
-
-### 🚧 In Progress
-
-#### Milestone 6
-
-- UI polish
-- Improved typography
-- Better tables
-- Better code blocks
-- Documentation callouts
-- Screenshot guides
-- Homepage improvements
-- Documentation components
-- Accessibility improvements
+- Dark mode support
+- Beginner-friendly documentation
 
 ---
 
 ## Version History
 
-| Version | Status | Description |
-|----------|--------|-------------|
-| 0.0.6 | ✅ Released | Initial public documentation |
-| Unreleased | 🚧 Development | Milestone 6 improvements |
+| Version | Status | Release Date | Description |
+|----------|--------|--------------|-------------|
+| **1.1.0** | ✅ Current | 2026-07-28 | Homepage improvements, build fixes, documentation updates |
+| **1.0.0** | 📦 Stable | 2026-07-16 | Initial public release |
 
 ---
 
-## Future Plans
+## Roadmap
 
-Planned improvements include:
+### Version 1.2.0
 
-- More advanced editing guides
-- Interactive examples
-- Additional screenshots
+Planned work:
+
+- Wikitext Basics guide
+- Formatting guide
+- Templates guide
+- Image upload guide
+- Categories guide
+- Infobox guide
+- Editing checklist
+- Common mistakes
+- More screenshots
 - Expanded reference library
-- Community contributions
-- Performance improvements
-- Accessibility enhancements
 
 ---
 
