@@ -2,7 +2,7 @@
   "name": "",
   "type": "module",
   "version": "1.1.0",
-  "scripts": {
++  "scripts": {
     "dev": "astro dev",
     "start": "astro dev",
     "build": "astro build",
