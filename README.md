@@ -160,11 +160,12 @@ Please read **CONTRIBUTING.md** before submitting a pull request.
 - Navigation improvements
 - Core documentation
 - Repository setup
+-  Public release
+- Design system
+- UI polish
 
 ### 🚧 In Progress
 
-- Design system
-- UI polish
 - Screenshots and visual guides
 - Documentation components
 
@@ -174,7 +175,6 @@ Please read **CONTRIBUTING.md** before submitting a pull request.
 - Interactive examples
 - Expanded reference library
 - Community contributions
-- Public release
 
 ---
 
