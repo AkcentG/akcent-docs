@@ -3,12 +3,10 @@ import starlight from '@astrojs/starlight';
 import logo from './src/assets/logo-icon.png';
 
 export default defineConfig({
+  site: 'https://akcent-docs.pages.dev',
+
   integrations: [
     starlight({
-      // ==================================================
-      // Site Information
-      // ==================================================
-
       title: 'Akcent Docs',
 
       description:
@@ -19,10 +17,6 @@ export default defineConfig({
         alt: 'Akcent Docs',
       },
 
-      // ==================================================
-      // Social Links
-      // ==================================================
-
       social: [
         {
           icon: 'github',
@@ -31,23 +25,12 @@ export default defineConfig({
         },
       ],
 
-      // ==================================================
-      // Edit this page
-      // ==================================================
-
       editLink: {
-        baseUrl: 'https://github.com/AkcentG/akcent-docs/edit/main/',
+        baseUrl:
+          'https://github.com/AkcentG/akcent-docs/edit/main/',
       },
 
-      // ==================================================
-      // Custom Styling
-      // ==================================================
-
       customCss: ['./src/styles/custom.css'],
-
-      // ==================================================
-      // Sidebar Navigation
-      // ==================================================
 
       sidebar: [
         {
@@ -61,6 +44,10 @@ export default defineConfig({
             {
               label: 'Quick Start',
               link: '/quick-start/',
+            },
+            {
+              label: 'Useful Links',
+              link: '/useful-links/',
             },
           ],
         },
@@ -85,10 +72,6 @@ export default defineConfig({
           collapsed: false,
           items: [
             {
-              label: 'Resource Directory',
-              link: '/useful-links/',
-            },
-            {
               label: 'Reference Library',
               link: '/reference-library/',
             },
@@ -96,19 +79,12 @@ export default defineConfig({
               label: 'Credits',
               link: '/credits/',
             },
-          ],
-        },
-
-        {
-          label: 'ℹ️ About',
-          collapsed: false,
-          items: [
             {
-              label: 'About Akcent Docs',
+              label: 'About',
               link: '/about/',
             },
             {
-              label: 'Contact Me',
+              label: 'Contact',
               link: '/contact/',
             },
             {
