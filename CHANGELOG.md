@@ -10,7 +10,9 @@ The format is based on **Keep a Changelog**, and this project follows **Semantic
 
 ### 🚧 Planned
 
-Nothing yet.
+- Screenshots and visual guides
+- Documentation components
+
 
 ---
 

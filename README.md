@@ -30,16 +30,16 @@ The project is built with **Astro** and **Starlight**, with a focus on clear wri
 
 ## ✨ Features
 
-- 📘 Beginner-friendly guides
-- ⚡ Quick Start tutorial
-- 💡 Tips & Tricks
-- ❓ Questions & Answers
-- 🔗 Useful Links directory
-- 📚 Reference Library
-- ❤️ Community-focused project
-- 🌙 Dark mode support
-- 🔍 Built-in documentation search
-- 📱 Responsive design
+- Beginner-friendly guides
+- Quick Start tutorial
+- Tips & Tricks
+- Questions & Answers
+- Useful Links directory
+- Reference Library
+- Community-focused project
+- Dark mode support
+- Built-in documentation search
+- Responsive design
 
 ---
 
@@ -53,16 +53,16 @@ The project is built with **Astro** and **Starlight**, with a focus on clear wri
 
 Akcent Docs currently includes:
 
-- 📖 Introduction
-- ⚡ Quick Start
-- 💡 Tips & Tricks
-- ❓ Questions & Answers
-- 🔗 Useful Links
-- 📚 Reference Library
-- ℹ️ About
-- 📬 Contact
-- ❤️ Credits
-- ⚠️ Disclaimer
+- Introduction
+- Quick Start
+- Tips & Tricks
+- Questions & Answers
+- Useful Links
+- Reference Library
+- About
+- Contact
+- Credits
+- Disclaimer
 
 ---
 
@@ -160,19 +160,11 @@ Please read **CONTRIBUTING.md** before submitting a pull request.
 - Navigation improvements
 - Core documentation
 - Repository setup
--  Public release
 - Design system
 - UI polish
 
 ### 🚧 In Progress
 
-- Screenshots and visual guides
-- Documentation components
-
-### 🔮 Future Plans
-
-- Advanced wiki editing guides
-- Interactive examples
 - Expanded reference library
 - Community contributions
 
