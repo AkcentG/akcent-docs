@@ -13,6 +13,23 @@ The format is based on **Keep a Changelog**, and this project follows **Semantic
 - Screenshots and visual guides
 - Documentation components
 
+---
+## [1.1.1] -2026-07-29
+
+### ✨ Changes
+
+- Reduced the amount of emojis 
+
+#### Repository
+
+- Updated README
+- Updated Index
+- Updated package version to **1.1.1**
+- Updated About
+- Updated Contact 
+- Updated Credits 
+- Updated Introduction 
+- Improved release documentation
 
 ---
 
@@ -107,7 +124,8 @@ The first public release of **Akcent Docs**.
 
 | Version | Status | Release Date | Description |
 |----------|--------|--------------|-------------|
-| **1.1.0** | ✅ Current | 2026-07-28 | Homepage improvements, build fixes, documentation updates |
+| **1.1.1** | ✅ Current| 2026-07-29| Reduced amount of emoji's 
+| **1.1.0** | 📦 Stable| 2026-07-28 | Homepage improvements, build fixes, documentation updates |
 | **1.0.0** | 📦 Stable | 2026-07-16 | Initial public release |
 
 ---
