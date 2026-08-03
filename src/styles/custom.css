@@ -1,11 +1,16 @@
 /* ==========================================================
    AKCENT DOCS DESIGN SYSTEM
-   Built for Astro Starlight
-   Version 2.0
+   Version 3.0
 ========================================================== */
 
 /* ==========================================================
-   1. Root Theme
+   Google Fonts
+========================================================== */
+
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Rye&display=swap');
+
+/* ==========================================================
+   Root Theme
 ========================================================== */
 
 :root {
@@ -18,256 +23,250 @@
   --ak-transition: 0.2s ease;
 
   --ak-shadow:
-    0 4px 14px rgba(0,0,0,.10);
+    0 4px 14px rgba(0, 0, 0, .10);
 
   --ak-shadow-hover:
-    0 8px 22px rgba(0,0,0,.18);
+    0 8px 22px rgba(0, 0, 0, .18);
 }
 
 /* ==========================================================
-   2. Typography
+   Global Typography
 ========================================================== */
 
-.sl-markdown-content h1{
-    margin-bottom:1rem;
-    font-size:2.6rem;
-    line-height:1.2;
+html,
+body {
+  font-family: "Inter", sans-serif;
+  scroll-behavior: smooth;
 }
 
-.sl-markdown-content h2{
-    margin-top:3rem;
-    margin-bottom:1rem;
-    border-bottom:1px solid var(--sl-color-hairline);
-    padding-bottom:.4rem;
+.sl-markdown-content {
+  font-family: "Inter", sans-serif;
 }
 
-.sl-markdown-content h3{
-    margin-top:2rem;
-    margin-bottom:.75rem;
+/* ==========================================================
+   Headings
+========================================================== */
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+.hero h1,
+.site-title {
+  font-family: "Rye", serif;
+  font-weight: 400;
 }
 
-.sl-markdown-content p{
-    line-height:1.8;
-    margin:1rem 0;
+.sl-markdown-content h1 {
+  font-size: 2rem;
+  line-height: 1.2;
+  margin-bottom: 1rem;
+}
+
+.sl-markdown-content h2 {
+  font-size: 1.55rem;
+  margin-top: 2.5rem;
+  margin-bottom: .8rem;
+  padding-bottom: .35rem;
+  border-bottom: 1px solid var(--sl-color-hairline);
+}
+
+.sl-markdown-content h3 {
+  font-size: 1.25rem;
+  margin-top: 2rem;
+  margin-bottom: .6rem;
+}
+
+.sl-markdown-content h4,
+.sl-markdown-content h5,
+.sl-markdown-content h6 {
+  margin-top: 1.5rem;
+}
+
+/* ==========================================================
+   Hero
+========================================================== */
+
+.hero h1 {
+  font-size: 3rem;
+}
+
+.hero .tagline {
+  font-size: 1.15rem;
+  font-family: "Inter", sans-serif;
+}
+
+/* ==========================================================
+   Paragraphs & Lists
+========================================================== */
+
+.sl-markdown-content p {
+  line-height: 1.8;
+  margin: 1rem 0;
 }
 
 .sl-markdown-content ul,
-.sl-markdown-content ol{
-    line-height:1.8;
+.sl-markdown-content ol {
+  line-height: 1.8;
 }
 
-.sl-markdown-content li{
-    margin:.4rem 0;
-}
-
-/* ==========================================================
-   3. Links
-========================================================== */
-
-.sl-markdown-content a{
-
-    transition:var(--ak-transition);
-
-    text-decoration:none;
-
-    font-weight:500;
-}
-
-.sl-markdown-content a:hover{
-
-    text-decoration:underline;
+.sl-markdown-content li {
+  margin: .4rem 0;
 }
 
 /* ==========================================================
-   4. Cards
+   Links
 ========================================================== */
 
-.card{
-
-    border-radius:var(--ak-radius);
-
-    transition:all var(--ak-transition);
-
-    overflow:hidden;
+.sl-markdown-content a {
+  text-decoration: none;
+  font-weight: 500;
+  transition: var(--ak-transition);
 }
 
-.card:hover{
-
-    transform:translateY(-4px);
-
-    box-shadow:var(--ak-shadow-hover);
+.sl-markdown-content a:hover {
+  text-decoration: underline;
 }
 
 /* ==========================================================
-   5. Buttons
+   Cards
 ========================================================== */
 
-.hero .action{
-
-    border-radius:999px;
-
-    transition:all var(--ak-transition);
-
-    font-weight:600;
+.card {
+  border-radius: var(--ak-radius);
+  overflow: hidden;
+  transition: all var(--ak-transition);
 }
 
-.hero .action:hover{
-
-    transform:translateY(-2px);
+.card:hover {
+  transform: translateY(-4px);
+  box-shadow: var(--ak-shadow-hover);
 }
 
 /* ==========================================================
-   6. Tables
+   Buttons
 ========================================================== */
 
-.sl-markdown-content table{
-
-    width:100%;
-
-    border-collapse:collapse;
-
-    overflow:hidden;
-
-    border-radius:var(--ak-radius);
-
-    margin:2rem 0;
+.hero .action {
+  border-radius: 999px;
+  font-weight: 600;
+  transition: all var(--ak-transition);
 }
 
-.sl-markdown-content th{
-
-    padding:14px;
-
-    text-align:left;
-
-    font-weight:700;
-
-    border-bottom:2px solid var(--sl-color-hairline);
-}
-
-.sl-markdown-content td{
-
-    padding:14px;
-
-    border-bottom:1px solid var(--sl-color-hairline);
-}
-
-.sl-markdown-content tbody tr:hover{
-
-    background:rgba(255,255,255,.03);
+.hero .action:hover {
+  transform: translateY(-2px);
 }
 
 /* ==========================================================
-   7. Code
+   Tables
 ========================================================== */
 
-.sl-markdown-content pre{
-
-    border-radius:var(--ak-radius);
-
-    padding:1rem;
-
-    overflow-x:auto;
+.sl-markdown-content table {
+  width: 100%;
+  margin: 2rem 0;
+  border-collapse: collapse;
+  overflow: hidden;
+  border-radius: var(--ak-radius);
 }
 
-.sl-markdown-content code{
+.sl-markdown-content th {
+  padding: 14px;
+  text-align: left;
+  font-weight: 700;
+  border-bottom: 2px solid var(--sl-color-hairline);
+}
 
-    border-radius:6px;
+.sl-markdown-content td {
+  padding: 14px;
+  border-bottom: 1px solid var(--sl-color-hairline);
+}
 
-    padding:.15rem .35rem;
+.sl-markdown-content tbody tr:hover {
+  background: rgba(255, 255, 255, .03);
 }
 
 /* ==========================================================
-   8. Blockquotes
+   Code
 ========================================================== */
 
-.sl-markdown-content blockquote{
+.sl-markdown-content pre {
+  padding: 1rem;
+  overflow-x: auto;
+  border-radius: var(--ak-radius);
+}
 
-    border-left:4px solid var(--sl-color-accent);
-
-    padding-left:1rem;
-
-    margin:2rem 0;
+.sl-markdown-content code {
+  padding: .15rem .35rem;
+  border-radius: 6px;
 }
 
 /* ==========================================================
-   9. Images
+   Images
 ========================================================== */
 
-.sl-markdown-content img{
-
-    border-radius:var(--ak-radius);
-
-    box-shadow:var(--ak-shadow);
-
-    margin:1.5rem auto;
-
-    display:block;
-
-    max-width:100%;
+.sl-markdown-content img {
+  display: block;
+  max-width: 100%;
+  margin: 1.5rem auto;
+  border-radius: var(--ak-radius);
+  box-shadow: var(--ak-shadow);
 }
 
 /* ==========================================================
-   10. Sidebar
+   Blockquotes
 ========================================================== */
 
-.sidebar-content a{
-
-    border-radius:8px;
-
-    transition:var(--ak-transition);
-}
-
-.sidebar-content a:hover{
-
-    transform:translateX(4px);
+.sl-markdown-content blockquote {
+  margin: 2rem 0;
+  padding-left: 1rem;
+  border-left: 4px solid var(--sl-color-accent);
 }
 
 /* ==========================================================
-   11. Footer
+   Sidebar
 ========================================================== */
 
-footer{
+.sidebar-content a {
+  border-radius: 8px;
+  transition: var(--ak-transition);
+}
 
-    border-top:1px solid var(--sl-color-hairline);
-
-    margin-top:5rem;
-
-    padding-top:2rem;
+.sidebar-content a:hover {
+  transform: translateX(4px);
 }
 
 /* ==========================================================
-   12. Smooth Scrolling
+   Footer
 ========================================================== */
 
-html{
-
-    scroll-behavior:smooth;
+footer {
+  margin-top: 5rem;
+  padding-top: 2rem;
+  border-top: 1px solid var(--sl-color-hairline);
 }
 
 /* ==========================================================
-   13. Mobile
+   Mobile
 ========================================================== */
 
-@media (max-width:768px){
+@media (max-width: 768px) {
 
-.sl-markdown-content h1{
+  .hero h1 {
+    font-size: 2.3rem;
+  }
 
-font-size:2rem;
+  .sl-markdown-content h1 {
+    font-size: 1.7rem;
+  }
 
-}
+  .sl-markdown-content h2 {
+    font-size: 1.4rem;
+  }
 
-.sl-markdown-content h2{
-
-font-size:1.6rem;
-
-}
-
-.sl-markdown-content table{
-
-display:block;
-
-overflow:auto;
-
-}
-
+  .sl-markdown-content table {
+    display: block;
+    overflow-x: auto;
+  }
 }

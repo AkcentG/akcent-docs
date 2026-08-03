@@ -12,6 +12,21 @@ The format is based on **Keep a Changelog**, and this project follows **Semantic
 
 - Screenshots and visual guides
 - Documentation components
+---
+## [1.1.2] -2026-08-03
+
+### ✨ Changes
+
+- Changed Font to RYE
+- Reduced Heading Size
+- Fixed name errors in Credit, sry Jonathan and Circles 
+
+#### Repository
+
+- Updated Index
+- Updated Credits
+- Updated package version to **1.1.2**
+- Updated Cutstom CSS
 
 ---
 ## [1.1.1] -2026-07-29
