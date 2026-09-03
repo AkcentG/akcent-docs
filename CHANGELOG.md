@@ -163,7 +163,7 @@ The first public release of **Akcent Docs**.
 
 | Version | Status | Release Date | Description |
 |----------|--------|--------------|-------------|
-| **1.2.0** | 🚧 Preparing | 2026-09-03 | Roblox API, screenshot guides, Reference Library improvements |
+| **1.2.0** | ✅ Preparing | 2026-09-03 | Roblox API, screenshot guides, Reference Library improvements |
 | **1.1.2** | 📦 Stable | 2026-08-03 | Visual and repository improvements |
 | **1.1.1** | 📦 Stable | 2026-07-29 | Reduced emoji usage |
 | **1.1.0** | 📦 Stable | 2026-07-28 | Homepage improvements, build fixes, documentation updates |
