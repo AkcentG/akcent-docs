@@ -3,9 +3,11 @@
 Community-maintained documentation for Restaurant Tycoon 3 Wiki editors.
 
 🌐 **Website**
+
 https://akcent-docs.pages.dev
 
 📂 **GitHub**
+
 https://github.com/AkcentG/akcent-docs
 ## Features
 
@@ -15,6 +17,7 @@ https://github.com/AkcentG/akcent-docs
 - Useful Links
 - Community resources
 - Open source
+- Cheat sheet 
 
 ---
 
@@ -45,7 +48,7 @@ The project is built with **Astro** and **Starlight**, with a focus on clear wri
 
 ## 🖼 Preview
 
-> *A homepage screenshot will be added here in a future release.*
+![Akcent Docs homepage](src/assets/screenshots/akcent-docs-home.png)
 
 ---
 

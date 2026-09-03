@@ -10,8 +10,32 @@ The format is based on **Keep a Changelog**, and this project follows **Semantic
 
 ### 🚧 Planned
 
-- Screenshots and visual guides
-- Documentation components
+- Downloadable Wikitext formatting guide
+- More community-contributed guides
+- Additional useful editing examples
+---
+## [1.2.0] - 2026-09-04
+
+### Added
+
+- Roblox API reference and examples in Questions & Answers
+- Screenshot-based guides for editing the Restaurant Tycoon 3 Wiki
+- Expanded Reference Library
+- Quick Reference section with links to commonly used sections
+- Infobox example and formatting reference
+- Additional editing examples and resources
+
+### Improved
+
+### Improved
+
+- Quick Start guide with visual examples
+- Reference Library navigation
+- Documentation structure and usability
+- Image presentation throughout the documentation
+- Improved README
+- Removed the background from the hero image
+- Visual and accessibility polish
 ---
 ## [1.1.2] -2026-08-03
 
@@ -139,8 +163,10 @@ The first public release of **Akcent Docs**.
 
 | Version | Status | Release Date | Description |
 |----------|--------|--------------|-------------|
-| **1.1.1** | ✅ Current| 2026-07-29| Reduced amount of emoji's 
-| **1.1.0** | 📦 Stable| 2026-07-28 | Homepage improvements, build fixes, documentation updates |
+| **1.2.0** | 🚧 Preparing | 2026-09-03 | Roblox API, screenshot guides, Reference Library improvements |
+| **1.1.2** | 📦 Stable | 2026-08-03 | Visual and repository improvements |
+| **1.1.1** | 📦 Stable | 2026-07-29 | Reduced emoji usage |
+| **1.1.0** | 📦 Stable | 2026-07-28 | Homepage improvements, build fixes, documentation updates |
 | **1.0.0** | 📦 Stable | 2026-07-16 | Initial public release |
 
 ---
@@ -149,19 +175,21 @@ The first public release of **Akcent Docs**.
 
 ### Version 1.2.0
 
-Planned work:
+- ✅ Roblox API reference
+- ✅ Screenshot-based guides
+- ✅ Expanded Reference Library
+- ✅ Quick Reference navigation
+- ✅ Improved Quick Start
+- ✅ Visual and accessibility polish
+- ✅ Full site testing
 
-- Wikitext Basics guide
-- Formatting guide
-- Templates guide
-- Image upload guide
-- Categories guide
-- Infobox guide
-- Editing checklist
-- Common mistakes
-- More screenshots
-- Expanded reference library
+### Future
 
+- Downloadable Wikitext formatting guide
+- More community-contributed documentation
+- Additional editing examples
+- More visual guides
+- Further improvements based on community feedback
 ---
 
 Thank you to everyone who has contributed to **Akcent Docs** and helped improve the documentation for the Restaurant Tycoon 3 Wiki community.

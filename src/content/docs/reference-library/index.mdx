@@ -9,9 +9,30 @@ The **Reference Library** is your quick-reference guide while editing the **Rest
 
 Instead of searching through multiple websites, you can use this page as a handy cheat sheet for common Source (Wikitext) syntax, formatting, templates, and examples.
 
+![Wikitext formatting reference](/screenshots/formatting-guide.png)
+
+*A cheat sheet of Wiki Text (Formatting Guide)*
+
 ---
 
-# ✍️ Text Formatting
+## Quick Reference
+
+Looking for something specific? Jump straight to the section you need.
+
+### Most commonly used
+
+- 🖼️ **[Images](#images)** — Add and format images
+- 📊 **[Tables](#tables)** — Create and format tables
+- 📑 **[Tabbers](#tabbers)** — Organize information into tabs
+
+### Other useful tools
+
+- 🌐 **[Roblox API](#roblox-api)** — Retrieve information from Roblox
+- ↪️ **[Redirects](#redirects)** — Redirect one wiki page to another
+
+---
+
+## ✍️ Text Formatting
 
 | Syntax | Result |
 |----------|--------|
@@ -21,7 +42,7 @@ Instead of searching through multiple websites, you can use this page as a handy
 
 ---
 
-# 📑 Headings
+## 📑 Headings
 
 Use headings to organise your articles into sections.
 
@@ -35,7 +56,7 @@ Use headings to organise your articles into sections.
 
 ---
 
-# 🔗 Internal Links
+## 🔗 Internal Links
 
 Link to another page on the wiki.
 
@@ -51,7 +72,7 @@ Display custom text.
 
 ---
 
-# 🌐 External Links
+## 🌐 External Links
 
 Link to websites outside the wiki.
 
@@ -61,7 +82,7 @@ Link to websites outside the wiki.
 
 ---
 
-# 📋 Lists
+## 📋 Lists
 
 ### Bullet List
 
@@ -74,14 +95,16 @@ Link to websites outside the wiki.
 ### Numbered List
 
 ```wiki
-# First Item
-# Second Item
-# Third Item
+## First Item
+## Second Item
+## Third Item
 ```
 
 ---
 
-# 🖼 Images
+<a id="images"></a>
+
+## 🖼 Images
 
 Basic image.
 
@@ -103,7 +126,17 @@ Custom image width.
 
 ---
 
-# 📊 Tables
+## 📦 Infobox Example
+
+Infoboxes are commonly used to present important information about a page in a structured format.
+
+![Infobox example](/screenshots/infobox-example.png)
+
+---
+
+<a id="tables"></a>
+
+## 📊 Tables
 
 Basic wiki table.
 
@@ -122,7 +155,7 @@ Basic wiki table.
 
 ---
 
-# 📦 Templates
+## 📦 Templates
 
 Basic template.
 
@@ -141,7 +174,21 @@ Template with parameters.
 
 ---
 
-# 🔄 Redirects
+<a id="roblox-api"></a>
+
+## 🌐 Roblox API
+
+The Restaurant Tycoon 3 Wiki has access to a `#robloxAPI` parser function that can retrieve certain information from Roblox.
+
+For example, it can be used to retrieve a game's icon:
+
+```wiki
+{{#robloxAPI: gameIconUrl | 119048529960596 | 256x256 }}
+
+```
+<a id="redirects"></a>
+
+## 🔄 Redirects
 
 Redirect a page to another page.
 
@@ -157,7 +204,9 @@ Example.
 
 ---
 
-# 📑 Tabbers
+<a id="tabbers"></a>
+
+## 📑 Tabbers
 
 Create multiple tabs within a page.
 
@@ -182,7 +231,7 @@ Additional content.
 
 ---
 
-# 💬 Comments
+## 💬 Comments
 
 Comments are only visible in the source editor.
 
@@ -192,7 +241,7 @@ Comments are only visible in the source editor.
 
 ---
 
-# 📂 Categories
+## 📂 Categories
 
 Place a page into a category.
 
@@ -209,7 +258,7 @@ A page can belong to multiple categories.
 
 ---
 
-# ⭐ Common Editing Workflow
+## ⭐ Common Editing Workflow
 
 A typical editing workflow looks like this:
 
@@ -225,7 +274,7 @@ Following this process helps reduce mistakes and keeps edits organised.
 
 ---
 
-# ✅ Editing Checklist
+## ✅ Editing Checklist
 
 Before saving your edit, ask yourself:
 
@@ -240,7 +289,7 @@ A quick review can prevent common editing errors.
 
 ---
 
-# 📚 Related Pages
+## 📚 Related Pages
 
 Need more than a quick reference?
 
