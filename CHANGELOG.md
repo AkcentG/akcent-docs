@@ -13,6 +13,22 @@ The format is based on **Keep a Changelog**, and this project follows **Semantic
 - Downloadable Wikitext formatting guide
 - More community-contributed guides
 - Additional useful editing examples
+- Highlight syntax
+---
+## [1.2.1] -2026-09-05
+
+### ✨ Changes
+
+- Added ecreal to the credits
+- Fixed spelling mistake
+
+#### Repository
+
+- Updated Disclaimer
+- Updated Credits
+- Updated package version to **1.2.1**
+- Updated Index
+
 ---
 ## [1.2.0] - 2026-09-04
 
@@ -163,7 +179,8 @@ The first public release of **Akcent Docs**.
 
 | Version | Status | Release Date | Description |
 |----------|--------|--------------|-------------|
-| **1.2.0** | ✅ Preparing | 2026-09-03 | Roblox API, screenshot guides, Reference Library improvements |
+| **1.2.1** | ✅ Current | 2026-09-05 | Spelling and repository improvements |
+| **1.2.0** | 📦 Stable | 2026-09-03 | Roblox API, screenshot guides, Reference Library improvements |
 | **1.1.2** | 📦 Stable | 2026-08-03 | Visual and repository improvements |
 | **1.1.1** | 📦 Stable | 2026-07-29 | Reduced emoji usage |
 | **1.1.0** | 📦 Stable | 2026-07-28 | Homepage improvements, build fixes, documentation updates |
