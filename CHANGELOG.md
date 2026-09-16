@@ -30,6 +30,7 @@ The format is based on **Keep a Changelog**, and this project follows **Semantic
 - Updated Credits
 - Updated package version to **1.2.1**
 - Updated Index
+- Updated Change Log
 
 ---
 ## [1.2.0] - 2026-09-04
