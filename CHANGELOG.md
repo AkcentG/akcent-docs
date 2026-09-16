@@ -14,6 +14,8 @@ The format is based on **Keep a Changelog**, and this project follows **Semantic
 - More community-contributed guides
 - Additional useful editing examples
 - Highlight syntax
+- Add connection to discord server 
+
 ---
 ## [1.2.1] -2026-09-05
 
