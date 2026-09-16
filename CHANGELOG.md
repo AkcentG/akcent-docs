@@ -8,13 +8,18 @@ The format is based on **Keep a Changelog**, and this project follows **Semantic
 
 ## [Unreleased]
 
-### 🚧 Planned
+### Planned for v1.2.2
+
+- Add connection to Discord server
+
+### Future
 
 - Downloadable Wikitext formatting guide
 - More community-contributed guides
 - Additional useful editing examples
 - Highlight syntax
-- Add connection to discord server 
+- Add animations and interactive visual elements
+- AI assistant for helping users with Wikitext and RT3 Wiki editing
 
 ---
 ## [1.2.1] -2026-09-05
@@ -203,13 +208,21 @@ The first public release of **Akcent Docs**.
 - ✅ Visual and accessibility polish
 - ✅ Full site testing
 
+### Version 1.2.2
+
+- ⬜ Discord server connection
+
 ### Future
 
 - Downloadable Wikitext formatting guide
 - More community-contributed documentation
 - Additional editing examples
-- More visual guides
+- Highlight syntax
+- Animations and interactive visual elements
 - Further improvements based on community feedback
----
+
+### Version 2.0
+
+- AI assistant for helping users with Wikitext and RT3 Wiki editing
 
 Thank you to everyone who has contributed to **Akcent Docs** and helped improve the documentation for the Restaurant Tycoon 3 Wiki community.
