@@ -1,6 +1,5 @@
 import { defineConfig } from 'astro/config';
 import starlight from '@astrojs/starlight';
-import logo from './src/assets/logo-icon.png';
 
 export default defineConfig({
   site: 'https://akcent-docs.pages.dev',
@@ -13,7 +12,7 @@ export default defineConfig({
         'Community-maintained documentation for Restaurant Tycoon 3 Wiki editors.',
 
       logo: {
-        src: logo,
+        src: './src/assets/logo-icon.png',
         alt: 'Akcent Docs',
       },
 
@@ -37,60 +36,28 @@ export default defineConfig({
           label: '📘 Getting Started',
           collapsed: false,
           items: [
-            {
-              label: 'Introduction',
-              link: '/introduction/',
-            },
-            {
-              label: 'Quick Start',
-              link: '/quick-start/',
-            },
-            {
-              label: 'Useful Links',
-              link: '/useful-links/',
-            },
+            { label: 'Introduction', link: '/introduction/' },
+            { label: 'Quick Start', link: '/quick-start/' },
+            { label: 'Useful Links', link: '/useful-links/' },
           ],
         },
-
         {
           label: '💡 Guides',
           collapsed: false,
           items: [
-            {
-              label: 'Tips & Tricks',
-              link: '/tips/',
-            },
-            {
-              label: 'Questions & Answers',
-              link: '/qa/',
-            },
+            { label: 'Tips & Tricks', link: '/tips/' },
+            { label: 'Questions & Answers', link: '/qa/' },
           ],
         },
-
         {
           label: '📚 Resources',
           collapsed: false,
           items: [
-            {
-              label: 'Reference Library',
-              link: '/reference-library/',
-            },
-            {
-              label: 'Credits',
-              link: '/credits/',
-            },
-            {
-              label: 'About',
-              link: '/about/',
-            },
-            {
-              label: 'Contact',
-              link: '/contact/',
-            },
-            {
-              label: 'Disclaimer',
-              link: '/disclaimer/',
-            },
+            { label: 'Reference Library', link: '/reference-library/' },
+            { label: 'Credits', link: '/credits/' },
+            { label: 'About', link: '/about/' },
+            { label: 'Contact', link: '/contact/' },
+            { label: 'Disclaimer', link: '/disclaimer/' },
           ],
         },
       ],
