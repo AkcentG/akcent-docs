@@ -22,6 +22,11 @@ export default defineConfig({
           label: 'GitHub',
           href: 'https://github.com/AkcentG/akcent-docs',
         },
+        {
+          icon: 'discord',
+          label: 'Discord',
+          href: 'https://discord.gg/EzySztb9jE',
+        },
       ],
 
       editLink: {

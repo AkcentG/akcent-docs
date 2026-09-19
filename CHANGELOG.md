@@ -8,21 +8,26 @@ The format is based on **Keep a Changelog**, and this project follows **Semantic
 
 ## [Unreleased]
 
-### Planned for v1.2.2
+### Planned for v1.2.3
 
-- Add connection to Discord server
+- Make the Wikitext formatting guide downloadable
+
+### Planned for v1.2.4–v1.2.5
+
+- Add information about highlighting Wiki syntax
+- Add information about Menu Infobox
 
 ### Future
 
-- Downloadable Wikitext formatting guide
 - More community-contributed guides
 - Additional useful editing examples
-- Highlight syntax
 - Add animations and interactive visual elements
 - AI assistant for helping users with Wikitext and RT3 Wiki editing
+- Further improvements based on community feedback
 
 ---
-## [1.2.1] -2026-09-05
+
+## [1.2.1] - 2026-09-05
 
 ### ✨ Changes
 
@@ -38,6 +43,7 @@ The format is based on **Keep a Changelog**, and this project follows **Semantic
 - Updated Change Log
 
 ---
+
 ## [1.2.0] - 2026-09-04
 
 ### Added
@@ -51,8 +57,6 @@ The format is based on **Keep a Changelog**, and this project follows **Semantic
 
 ### Improved
 
-### Improved
-
 - Quick Start guide with visual examples
 - Reference Library navigation
 - Documentation structure and usability
@@ -60,28 +64,31 @@ The format is based on **Keep a Changelog**, and this project follows **Semantic
 - Improved README
 - Removed the background from the hero image
 - Visual and accessibility polish
+
 ---
-## [1.1.2] -2026-08-03
+
+## [1.1.2] - 2026-08-03
 
 ### ✨ Changes
 
 - Changed Font to RYE
 - Reduced Heading Size
-- Fixed name errors in Credit, sry Jonathan and Circles 
+- Fixed name errors in Credit, sry Jonathan and Circles
 
 #### Repository
 
 - Updated Index
 - Updated Credits
 - Updated package version to **1.1.2**
-- Updated Cutstom CSS
+- Updated Custom CSS
 
 ---
-## [1.1.1] -2026-07-29
+
+## [1.1.1] - 2026-07-29
 
 ### ✨ Changes
 
-- Reduced the amount of emojis 
+- Reduced the amount of emojis
 
 #### Repository
 
@@ -89,9 +96,9 @@ The format is based on **Keep a Changelog**, and this project follows **Semantic
 - Updated Index
 - Updated package version to **1.1.1**
 - Updated About
-- Updated Contact 
-- Updated Credits 
-- Updated Introduction 
+- Updated Contact
+- Updated Credits
+- Updated Introduction
 - Improved release documentation
 
 ---
@@ -188,7 +195,7 @@ The first public release of **Akcent Docs**.
 | Version | Status | Release Date | Description |
 |----------|--------|--------------|-------------|
 | **1.2.1** | ✅ Current | 2026-09-05 | Spelling and repository improvements |
-| **1.2.0** | 📦 Stable | 2026-09-03 | Roblox API, screenshot guides, Reference Library improvements |
+| **1.2.0** | 📦 Stable | 2026-09-04 | Roblox API, screenshot guides, Reference Library improvements |
 | **1.1.2** | 📦 Stable | 2026-08-03 | Visual and repository improvements |
 | **1.1.1** | 📦 Stable | 2026-07-29 | Reduced emoji usage |
 | **1.1.0** | 📦 Stable | 2026-07-28 | Homepage improvements, build fixes, documentation updates |
@@ -210,19 +217,26 @@ The first public release of **Akcent Docs**.
 
 ### Version 1.2.2
 
-- ⬜ Discord server connection
+- ✅ Discord server connection
+
+### Version 1.2.3
+
+- ⬜ Downloadable Wikitext formatting guide
+
+### Version 1.2.4–1.2.5
+
+- ⬜ Highlighting Wiki syntax
+- ⬜ Menu Infobox information
 
 ### Future
 
-- Downloadable Wikitext formatting guide
 - More community-contributed documentation
 - Additional editing examples
-- Highlight syntax
 - Animations and interactive visual elements
 - Further improvements based on community feedback
 
 ### Version 2.0
 
-- AI assistant for helping users with Wikitext and RT3 Wiki editing
+- AI assistant for helping users with Wikitext and RT3 Wiki editing (maybe)
 
 Thank you to everyone who has contributed to **Akcent Docs** and helped improve the documentation for the Restaurant Tycoon 3 Wiki community.
