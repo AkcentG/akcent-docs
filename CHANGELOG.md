@@ -194,7 +194,8 @@ The first public release of **Akcent Docs**.
 
 | Version | Status | Release Date | Description |
 |----------|--------|--------------|-------------|
-| **1.2.1** | ✅ Current | 2026-09-05 | Spelling and repository improvements |
+| **1.2.2** | ✅ Current | 2026-09-21 | Added connection to the discord server and updated roadmap |
+| **1.2.1** | 📦 Stable | 2026-09-05 | Spelling and repository improvements |
 | **1.2.0** | 📦 Stable | 2026-09-04 | Roblox API, screenshot guides, Reference Library improvements |
 | **1.1.2** | 📦 Stable | 2026-08-03 | Visual and repository improvements |
 | **1.1.1** | 📦 Stable | 2026-07-29 | Reduced emoji usage |
@@ -221,7 +222,7 @@ The first public release of **Akcent Docs**.
 
 ### Version 1.2.3
 
-- ⬜ Downloadable Wikitext formatting guide
+- 🚧 Downloadable Wikitext formatting guide
 
 ### Version 1.2.4–1.2.5
 
