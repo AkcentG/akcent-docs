@@ -28,18 +28,17 @@ The format is based on **Keep a Changelog**, and this project follows **Semantic
 ### Added
 
 - Added the Wikitext Formatting Guide as a downloadable PDF
-- Added a download link for the Wikitext Formatting Guide in the Reference Library
+- Added a download link to the Wikitext Formatting Guide in the Reference Library
 
 ### Fixed
 
 - Fixed the Wikitext Formatting Guide not appearing on the Reference Library page
 
-### Repository
+### Updated
 
-- Updated package version to **1.2.3**
-- Updated Index
-- Updated Reference Library
-- Updated Change Log
+- Updated the Reference Library
+- Updated the homepage version information
+- Updated the Change Log
 
 ---
 
@@ -58,7 +57,7 @@ The format is based on **Keep a Changelog**, and this project follows **Semantic
 
 ## [1.2.1] - 2026-09-05
 
-### ✨ Changes
+### Changes
 
 - Added ecreal to the credits
 - Fixed spelling mistake
@@ -98,11 +97,11 @@ The format is based on **Keep a Changelog**, and this project follows **Semantic
 
 ## [1.1.2] - 2026-08-03
 
-### ✨ Changes
+### Changes
 
 - Changed Font to RYE
 - Reduced Heading Size
-- Fixed name errors in Credit, sry Jonathan and Circles
+- Fixed name errors in Credits, including Jonathan and Circles
 
 #### Repository
 
@@ -115,7 +114,7 @@ The format is based on **Keep a Changelog**, and this project follows **Semantic
 
 ## [1.1.1] - 2026-07-29
 
-### ✨ Changes
+### Changes
 
 - Reduced the amount of emojis
 
@@ -134,7 +133,7 @@ The format is based on **Keep a Changelog**, and this project follows **Semantic
 
 ## [1.1.0] - 2026-07-28
 
-### ✨ Added
+### Added
 
 #### Website
 
@@ -151,14 +150,14 @@ The format is based on **Keep a Changelog**, and this project follows **Semantic
 - Updated package version to **1.1.0**
 - Improved release documentation
 
-### 🔄 Changed
+### Changed
 
 - Refined homepage content
 - Improved documentation wording
 - Updated project branding
 - Improved repository organization
 
-### 🐞 Fixed
+### Fixed
 
 - Fixed Astro/Starlight hero image issues
 - Fixed image loading and asset path problems
@@ -171,11 +170,11 @@ The format is based on **Keep a Changelog**, and this project follows **Semantic
 
 ## [1.0.0] - 2026-07-16
 
-### 🎉 Initial Release
+### Initial Release
 
 The first public release of **Akcent Docs**.
 
-### ✨ Added
+### Added
 
 #### Website
 
@@ -223,22 +222,38 @@ The first public release of **Akcent Docs**.
 
 | Version | Status | Release Date | Description |
 |----------|--------|--------------|-------------|
-| **1.2.3** | 🚧 In Progress | 2026-09-28 | Formatting guide + Reference Library fixes |
-| **1.2.2** | ✅ Current | 2026-09-21 | Discord integration and roadmap update |
+| **1.2.3** | ✅ Current | 2026-09-28 | Downloadable Wikitext Formatting Guide and Reference Library fixes |
+| **1.2.2** | 📦 Stable | 2026-09-21 | Discord server connection and roadmap update |
 | **1.2.1** | 📦 Stable | 2026-09-05 | Spelling and repository improvements |
-| **1.2.0** | 📦 Stable | 2026-09-04 | Roblox API, guides, Reference Library improvements |
+| **1.2.0** | 📦 Stable | 2026-09-04 | Roblox API, screenshot guides, Reference Library improvements |
 | **1.1.2** | 📦 Stable | 2026-08-03 | Visual and repository improvements |
 | **1.1.1** | 📦 Stable | 2026-07-29 | Reduced emoji usage |
-| **1.1.0** | 📦 Stable | 2026-07-28 | Homepage improvements and fixes |
+| **1.1.0** | 📦 Stable | 2026-07-28 | Homepage improvements, build fixes, documentation updates |
 | **1.0.0** | 📦 Stable | 2026-07-16 | Initial public release |
 
 ---
 
 ## Roadmap
 
+### Version 1.2.0
+
+- ✅ Roblox API reference
+- ✅ Screenshot-based guides
+- ✅ Expanded Reference Library
+- ✅ Quick Reference navigation
+- ✅ Improved Quick Start
+- ✅ Visual and accessibility polish
+- ✅ Full site testing
+
+### Version 1.2.2
+
+- ✅ Discord server connection
+
 ### Version 1.2.3
 
-- 🚧 Downloadable Wikitext formatting guide
+- ✅ Downloadable Wikitext formatting guide
+- ✅ Fixed Formatting Guide display on the Reference Library
+- ✅ Added PDF download
 
 ### Version 1.2.4–1.2.5
 
@@ -255,7 +270,5 @@ The first public release of **Akcent Docs**.
 ### Version 2.0
 
 - AI assistant for helping users with Wikitext and RT3 Wiki editing (maybe)
-
----
 
 Thank you to everyone who has contributed to **Akcent Docs** and helped improve the documentation for the Restaurant Tycoon 3 Wiki community.
