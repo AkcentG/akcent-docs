@@ -8,10 +8,6 @@ The format is based on **Keep a Changelog**, and this project follows **Semantic
 
 ## [Unreleased]
 
-### Planned for v1.2.3
-
-- Make the Wikitext formatting guide downloadable
-
 ### Planned for v1.2.4–v1.2.5
 
 - Add information about highlighting Wiki syntax
@@ -24,6 +20,39 @@ The format is based on **Keep a Changelog**, and this project follows **Semantic
 - Add animations and interactive visual elements
 - AI assistant for helping users with Wikitext and RT3 Wiki editing
 - Further improvements based on community feedback
+
+---
+
+## [1.2.3] - 2026-09-28
+
+### Added
+
+- Added the Wikitext Formatting Guide as a downloadable PDF
+- Added a download link for the Wikitext Formatting Guide in the Reference Library
+
+### Fixed
+
+- Fixed the Wikitext Formatting Guide not appearing on the Reference Library page
+
+### Repository
+
+- Updated package version to **1.2.3**
+- Updated Index
+- Updated Reference Library
+- Updated Change Log
+
+---
+
+## [1.2.2] - 2026-09-21
+
+### Added
+
+- Added Discord server connection
+- Added Discord icon to social links
+
+### Changed
+
+- Updated project roadmap
 
 ---
 
@@ -194,31 +223,18 @@ The first public release of **Akcent Docs**.
 
 | Version | Status | Release Date | Description |
 |----------|--------|--------------|-------------|
-| **1.2.2** | ✅ Current | 2026-09-21 | Added connection to the discord server and updated roadmap |
+| **1.2.3** | 🚧 In Progress | 2026-09-28 | Formatting guide + Reference Library fixes |
+| **1.2.2** | ✅ Current | 2026-09-21 | Discord integration and roadmap update |
 | **1.2.1** | 📦 Stable | 2026-09-05 | Spelling and repository improvements |
-| **1.2.0** | 📦 Stable | 2026-09-04 | Roblox API, screenshot guides, Reference Library improvements |
+| **1.2.0** | 📦 Stable | 2026-09-04 | Roblox API, guides, Reference Library improvements |
 | **1.1.2** | 📦 Stable | 2026-08-03 | Visual and repository improvements |
 | **1.1.1** | 📦 Stable | 2026-07-29 | Reduced emoji usage |
-| **1.1.0** | 📦 Stable | 2026-07-28 | Homepage improvements, build fixes, documentation updates |
+| **1.1.0** | 📦 Stable | 2026-07-28 | Homepage improvements and fixes |
 | **1.0.0** | 📦 Stable | 2026-07-16 | Initial public release |
 
 ---
 
 ## Roadmap
-
-### Version 1.2.0
-
-- ✅ Roblox API reference
-- ✅ Screenshot-based guides
-- ✅ Expanded Reference Library
-- ✅ Quick Reference navigation
-- ✅ Improved Quick Start
-- ✅ Visual and accessibility polish
-- ✅ Full site testing
-
-### Version 1.2.2
-
-- ✅ Discord server connection
 
 ### Version 1.2.3
 
@@ -239,5 +255,7 @@ The first public release of **Akcent Docs**.
 ### Version 2.0
 
 - AI assistant for helping users with Wikitext and RT3 Wiki editing (maybe)
+
+---
 
 Thank you to everyone who has contributed to **Akcent Docs** and helped improve the documentation for the Restaurant Tycoon 3 Wiki community.
