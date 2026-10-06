@@ -8,16 +8,19 @@ The format is based on **Keep a Changelog**, and this project follows **Semantic
 
 ## [Unreleased]
 
-### Planned for v1.2.4–v1.2.5
+### v1.2.4 — In Progress
 
+- Add animations and interactive visual elements
 - Add information about highlighting Wiki syntax
+
+### Planned for v1.2.5
+
 - Add information about Menu Infobox
 
 ### Future
 
 - More community-contributed guides
 - Additional useful editing examples
-- Add animations and interactive visual elements
 - AI assistant for helping users with Wikitext and RT3 Wiki editing
 - Further improvements based on community feedback
 
@@ -222,6 +225,7 @@ The first public release of **Akcent Docs**.
 
 | Version | Status | Release Date | Description |
 |----------|--------|--------------|-------------|
+| **1.2.4** | 🚧 In Progress | — | Animation and interactive visual improvements |
 | **1.2.3** | ✅ Current | 2026-09-28 | Downloadable Wikitext Formatting Guide and Reference Library fixes |
 | **1.2.2** | 📦 Stable | 2026-09-21 | Discord server connection and roadmap update |
 | **1.2.1** | 📦 Stable | 2026-09-05 | Spelling and repository improvements |
@@ -255,17 +259,22 @@ The first public release of **Akcent Docs**.
 - ✅ Fixed Formatting Guide display on the Reference Library
 - ✅ Added PDF download
 
-### Version 1.2.4–1.2.5
+### Version 1.2.4 — In Progress
 
-- ⬜ Highlighting Wiki syntax
-- ⬜ Menu Infobox information
+- 🚧 Add animations and interactive visual elements
+- ⬜ Add information about highlighting Wiki syntax
+
+### Version 1.2.5
+
+- ⬜ Add information about Menu Infobox
+- ⬜ Additional polish and improvements based on v1.2.4
 
 ### Future
 
 - More community-contributed documentation
 - Additional editing examples
-- Animations and interactive visual elements
 - Further improvements based on community feedback
+- Maybe making it a Hub
 
 ### Version 2.0
 
