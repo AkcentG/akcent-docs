@@ -149,14 +149,18 @@ h6,
    Buttons
 ========================================================== */
 
-.hero .action {
+.hero .sl-link-button {
   border-radius: 999px;
   font-weight: 600;
-  transition: all var(--ak-transition);
+
+  transition:
+    transform var(--ak-transition),
+    box-shadow var(--ak-transition);
 }
 
-.hero .action:hover {
-  transform: translateY(-2px);
+.hero .sl-link-button:hover {
+  transform: translateY(-3px);
+  box-shadow: var(--ak-shadow-hover);
 }
 
 /* ==========================================================
@@ -268,5 +272,26 @@ footer {
   .sl-markdown-content table {
     display: block;
     overflow-x: auto;
+  }
+}
+
+/* ==========================================================
+   Page Entrance Animation
+========================================================== */
+
+.main-frame > * {
+  animation: ak-page-enter 0.45s ease-out !important;
+  will-change: opacity, transform;
+}
+
+@keyframes ak-page-enter {
+  from {
+    opacity: 0;
+    transform: translateY(12px);
+  }
+
+  to {
+    opacity: 1;
+    transform: translateY(0);
   }
 }
