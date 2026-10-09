@@ -202,6 +202,7 @@ The first public release of **Akcent Docs**.
 - Responsive layout.
 - Dark mode support.
 - Beginner-friendly documentation.
+- Helpful Images  
 
 ---
 
@@ -254,10 +255,8 @@ The first public release of **Akcent Docs**.
 - Additional editing examples.
 - Further improvements based on community feedback.
 - Explore turning Akcent Docs into a community hub.
-
-### Version 2.0
-- ⬜ Explore an AI assistant for helping users with Wikitext and Restaurant Tycoon 3 Wiki editing.
-
+- Explore an AI assistant for helping users with Wikitext and Restaurant Tycoon 3 Wiki editing.
+- 
 ---
 
 Thank you to everyone who has contributed to **Akcent Docs** and helped improve the documentation for the Restaurant Tycoon 3 Wiki community.
