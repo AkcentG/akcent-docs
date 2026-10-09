@@ -36,6 +36,11 @@ export default defineConfig({
 
       customCss: ['./src/styles/custom.css'],
 
+components: {
+  Head: './src/components/Head.astro',
+  PageFrame: './src/components/PageFrame.astro',
+},
+
       sidebar: [
         {
           label: '📘 Getting Started',
