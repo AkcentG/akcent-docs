@@ -10,68 +10,64 @@ The format is based on **Keep a Changelog**, and this project follows **Semantic
 
 ### v1.2.4 — In Progress
 
-- Add animations and interactive visual elements
-- Add information about highlighting Wiki syntax
+#### Added
+- Added a page entrance animation to improve the navigation experience.
+
+#### Remaining
+- Add information about highlighting Wiki syntax.
+- Add further interactive visual elements, if needed.
 
 ### Planned for v1.2.5
-
-- Add information about Menu Infobox
+- Add information about Menu Infobox.
+- Additional polish and improvements based on v1.2.4.
 
 ### Future
-
-- More community-contributed guides
-- Additional useful editing examples
-- AI assistant for helping users with Wikitext and RT3 Wiki editing
-- Further improvements based on community feedback
+- More community-contributed guides.
+- Additional useful editing examples.
+- Further improvements based on community feedback.
+- Explore turning Akcent Docs into a community hub.
 
 ---
 
 ## [1.2.3] - 2026-09-28
 
 ### Added
-
-- Added the Wikitext Formatting Guide as a downloadable PDF
-- Added a download link to the Wikitext Formatting Guide in the Reference Library
+- Added the Wikitext Formatting Guide as a downloadable PDF.
+- Added a download link to the Wikitext Formatting Guide in the Reference Library.
 
 ### Fixed
-
-- Fixed the Wikitext Formatting Guide not appearing on the Reference Library page
+- Fixed the Wikitext Formatting Guide not appearing on the Reference Library page.
 
 ### Updated
-
-- Updated the Reference Library
-- Updated the homepage version information
-- Updated the Change Log
+- Updated the Reference Library.
+- Updated the homepage version information.
+- Updated the changelog.
 
 ---
 
 ## [1.2.2] - 2026-09-21
 
 ### Added
-
-- Added Discord server connection
-- Added Discord icon to social links
+- Added Discord server connection.
+- Added Discord icon to social links.
 
 ### Changed
-
-- Updated project roadmap
+- Updated the project roadmap.
 
 ---
 
 ## [1.2.1] - 2026-09-05
 
 ### Changes
-
-- Added ecreal to the credits
-- Fixed spelling mistake
+- Added ecreal to the credits.
+- Fixed a spelling mistake.
 
 #### Repository
-
-- Updated Disclaimer
-- Updated Credits
-- Updated package version to **1.2.1**
-- Updated Index
-- Updated Change Log
+- Updated the Disclaimer.
+- Updated Credits.
+- Updated the package version to **1.2.1**.
+- Updated the Index.
+- Updated the changelog.
 
 ---
 
@@ -79,58 +75,54 @@ The format is based on **Keep a Changelog**, and this project follows **Semantic
 
 ### Added
 
-- Roblox API reference and examples in Questions & Answers
-- Screenshot-based guides for editing the Restaurant Tycoon 3 Wiki
-- Expanded Reference Library
-- Quick Reference section with links to commonly used sections
-- Infobox example and formatting reference
-- Additional editing examples and resources
+#### Website
+- Added Roblox API references and examples in Questions & Answers.
+- Added screenshot-based guides for editing the Restaurant Tycoon 3 Wiki.
+- Expanded the Reference Library.
+- Added Quick Reference links to commonly used sections.
+- Added an infobox example and formatting reference.
+- Added additional editing examples and resources.
 
 ### Improved
-
-- Quick Start guide with visual examples
-- Reference Library navigation
-- Documentation structure and usability
-- Image presentation throughout the documentation
-- Improved README
-- Removed the background from the hero image
-- Visual and accessibility polish
+- Improved the Quick Start guide with visual examples.
+- Improved Reference Library navigation.
+- Improved documentation structure and usability.
+- Improved image presentation throughout the documentation.
+- Improved the README.
+- Removed the background from the hero image.
+- Added visual and accessibility polish.
 
 ---
 
 ## [1.1.2] - 2026-08-03
 
 ### Changes
-
-- Changed Font to RYE
-- Reduced Heading Size
-- Fixed name errors in Credits, including Jonathan and Circles
+- Changed the font to Rye.
+- Reduced heading sizes.
+- Fixed name errors in Credits, including Jonathan and Circles.
 
 #### Repository
-
-- Updated Index
-- Updated Credits
-- Updated package version to **1.1.2**
-- Updated Custom CSS
+- Updated the Index.
+- Updated Credits.
+- Updated the package version to **1.1.2**.
+- Updated custom CSS.
 
 ---
 
 ## [1.1.1] - 2026-07-29
 
 ### Changes
-
-- Reduced the amount of emojis
+- Reduced the amount of emoji usage.
 
 #### Repository
-
-- Updated README
-- Updated Index
-- Updated package version to **1.1.1**
-- Updated About
-- Updated Contact
-- Updated Credits
-- Updated Introduction
-- Improved release documentation
+- Updated the README.
+- Updated the Index.
+- Updated the package version to **1.1.1**.
+- Updated About.
+- Updated Contact.
+- Updated Credits.
+- Updated Introduction.
+- Improved release documentation.
 
 ---
 
@@ -139,35 +131,31 @@ The format is based on **Keep a Changelog**, and this project follows **Semantic
 ### Added
 
 #### Website
-
-- Improved splash homepage
-- Better navigation structure
-- Improved sidebar organization
-- Additional documentation pages
-- Improved homepage layout
-- Updated custom styling
+- Improved the splash homepage.
+- Improved navigation structure.
+- Improved sidebar organization.
+- Added additional documentation pages.
+- Improved homepage layout.
+- Updated custom styling.
 
 #### Repository
-
-- Updated README
-- Updated package version to **1.1.0**
-- Improved release documentation
+- Updated the README.
+- Updated the package version to **1.1.0**.
+- Improved release documentation.
 
 ### Changed
-
-- Refined homepage content
-- Improved documentation wording
-- Updated project branding
-- Improved repository organization
+- Refined homepage content.
+- Improved documentation wording.
+- Updated project branding.
+- Improved repository organization.
 
 ### Fixed
-
-- Fixed Astro/Starlight hero image issues
-- Fixed image loading and asset path problems
-- Removed conflicting custom 404 page
-- Improved production build stability
-- Fixed Git synchronization issues
-- Successfully released **Akcent Docs v1.1.0**
+- Fixed Astro/Starlight hero image issues.
+- Fixed image loading and asset path problems.
+- Removed the conflicting custom 404 page.
+- Improved production build stability.
+- Fixed Git synchronization issues.
+- Successfully released **Akcent Docs v1.1.0**.
 
 ---
 
@@ -180,59 +168,55 @@ The first public release of **Akcent Docs**.
 ### Added
 
 #### Website
-
-- Homepage
-- Responsive navigation
-- Sidebar organization
-- Search functionality
-- Community homepage
-- Custom design system
+- Homepage.
+- Responsive navigation.
+- Sidebar organization.
+- Search functionality.
+- Community homepage.
+- Custom design system.
 
 #### Documentation
-
-- Introduction
-- Quick Start
-- Tips & Tricks
-- Questions & Answers
-- Useful Links
-- Reference Library
-- About
-- Contact
-- Credits
-- Disclaimer
+- Introduction.
+- Quick Start.
+- Tips & Tricks.
+- Questions & Answers.
+- Useful Links.
+- Reference Library.
+- About.
+- Contact.
+- Credits.
+- Disclaimer.
 
 #### Repository
-
-- README
-- LICENSE
-- CONTRIBUTING
-- CHANGELOG
-- GitHub Issue Templates
-- Pull Request Template
-- Code of Conduct
-- Security Policy
+- README.
+- LICENSE.
+- CONTRIBUTING.
+- CHANGELOG.
+- GitHub Issue Templates.
+- Pull Request Template.
+- Code of Conduct.
+- Security Policy.
 
 #### Features
-
-- Built with Astro + Starlight
-- Responsive layout
-- Dark mode support
-- Beginner-friendly documentation
+- Built with Astro and Starlight.
+- Responsive layout.
+- Dark mode support.
+- Beginner-friendly documentation.
 
 ---
 
 ## Version History
 
 | Version | Status | Release Date | Description |
-|----------|--------|--------------|-------------|
-| **1.2.4** | 🚧 In Progress | — | Animation and interactive visual improvements |
+|---|---|---|---|
+| **1.2.4** | 🚧 In Progress | — | Page entrance animation and planned interactive visual improvements |
 | **1.2.3** | ✅ Current | 2026-09-28 | Downloadable Wikitext Formatting Guide and Reference Library fixes |
 | **1.2.2** | 📦 Stable | 2026-09-21 | Discord server connection and roadmap update |
 | **1.2.1** | 📦 Stable | 2026-09-05 | Spelling and repository improvements |
-| **1.2.0** | 📦 Stable | 2026-09-04 | Roblox API, screenshot guides, Reference Library improvements |
+| **1.2.0** | 📦 Stable | 2026-09-04 | Roblox API, screenshot guides, and Reference Library improvements |
 | **1.1.2** | 📦 Stable | 2026-08-03 | Visual and repository improvements |
 | **1.1.1** | 📦 Stable | 2026-07-29 | Reduced emoji usage |
-| **1.1.0** | 📦 Stable | 2026-07-28 | Homepage improvements, build fixes, documentation updates |
+| **1.1.0** | 📦 Stable | 2026-07-28 | Homepage improvements, build fixes, and documentation updates |
 | **1.0.0** | 📦 Stable | 2026-07-16 | Initial public release |
 
 ---
@@ -240,44 +224,40 @@ The first public release of **Akcent Docs**.
 ## Roadmap
 
 ### Version 1.2.0
-
-- ✅ Roblox API reference
-- ✅ Screenshot-based guides
-- ✅ Expanded Reference Library
-- ✅ Quick Reference navigation
-- ✅ Improved Quick Start
-- ✅ Visual and accessibility polish
-- ✅ Full site testing
+- ✅ Roblox API reference.
+- ✅ Screenshot-based guides.
+- ✅ Expanded Reference Library.
+- ✅ Quick Reference navigation.
+- ✅ Improved Quick Start.
+- ✅ Visual and accessibility polish.
+- ✅ Full site testing.
 
 ### Version 1.2.2
-
-- ✅ Discord server connection
+- ✅ Discord server connection.
 
 ### Version 1.2.3
-
-- ✅ Downloadable Wikitext formatting guide
-- ✅ Fixed Formatting Guide display on the Reference Library
-- ✅ Added PDF download
+- ✅ Downloadable Wikitext Formatting Guide.
+- ✅ Fixed the Formatting Guide display on the Reference Library.
+- ✅ Added the PDF download link.
 
 ### Version 1.2.4 — In Progress
-
-- 🚧 Add animations and interactive visual elements
-- ⬜ Add information about highlighting Wiki syntax
+- ✅ Added a page entrance animation.
+- 🚧 Add information about highlighting Wiki syntax.
+- ⬜ Add further interactive visual elements, if needed.
 
 ### Version 1.2.5
-
-- ⬜ Add information about Menu Infobox
-- ⬜ Additional polish and improvements based on v1.2.4
+- ⬜ Add information about Menu Infobox.
+- ⬜ Additional polish and improvements based on v1.2.4.
 
 ### Future
-
-- More community-contributed documentation
-- Additional editing examples
-- Further improvements based on community feedback
-- Maybe making it a Hub
+- More community-contributed documentation.
+- Additional editing examples.
+- Further improvements based on community feedback.
+- Explore turning Akcent Docs into a community hub.
 
 ### Version 2.0
+- ⬜ Explore an AI assistant for helping users with Wikitext and Restaurant Tycoon 3 Wiki editing.
 
-- AI assistant for helping users with Wikitext and RT3 Wiki editing (maybe)
+---
 
 Thank you to everyone who has contributed to **Akcent Docs** and helped improve the documentation for the Restaurant Tycoon 3 Wiki community.
