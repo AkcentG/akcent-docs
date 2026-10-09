@@ -14,11 +14,11 @@ The format is based on **Keep a Changelog**, and this project follows **Semantic
 - Added a page entrance animation to improve the navigation experience.
 
 #### Remaining
-- Add information about highlighting Wiki syntax.
 - Add further interactive visual elements, if needed.
 
 ### Planned for v1.2.5
 - Add information about Menu Infobox.
+- Add information about highlighting Wiki syntax.
 - Additional polish and improvements based on v1.2.4.
 
 ### Future
@@ -242,11 +242,11 @@ The first public release of **Akcent Docs**.
 
 ### Version 1.2.4 — In Progress
 - ✅ Added a page entrance animation.
-- 🚧 Add information about highlighting Wiki syntax.
 - ⬜ Add further interactive visual elements, if needed.
 
 ### Version 1.2.5
 - ⬜ Add information about Menu Infobox.
+- ⬜ Add information about highlighting Wiki syntax.
 - ⬜ Additional polish and improvements based on v1.2.4.
 
 ### Future
