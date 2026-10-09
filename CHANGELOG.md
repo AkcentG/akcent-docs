@@ -21,6 +21,14 @@ The format is based on **Keep a Changelog**, and this project follows **Semantic
 - Add information about highlighting Wiki syntax.
 - Additional polish and improvements based on v1.2.4.
 
+### Planned for v1.3.0
+- Create an Advanced Reference Library.
+- Add a guide on editing Build Mode content.
+- Move selected advanced topics and resources from the main Reference Library to the Advanced Reference Library.
+- Move Menu Infobox information and Roblox API documentation into the appropriate sections.
+- Update images and examples throughout the documentation.
+- Improve navigation and organization of advanced resources.
+
 ### Future
 - More community-contributed guides.
 - Additional useful editing examples.
@@ -224,39 +232,55 @@ The first public release of **Akcent Docs**.
 
 ## Roadmap
 
-### Version 1.2.0
-- ✅ Roblox API reference.
-- ✅ Screenshot-based guides.
-- ✅ Expanded Reference Library.
-- ✅ Quick Reference navigation.
-- ✅ Improved Quick Start.
-- ✅ Visual and accessibility polish.
-- ✅ Full site testing.
+### Version 1.2.0 — Released
+- ✅ Added Roblox API references and examples.
+- ✅ Added screenshot-based editing guides.
+- ✅ Expanded the Reference Library.
+- ✅ Added Quick Reference navigation.
+- ✅ Improved the Quick Start guide.
+- ✅ Added visual and accessibility improvements.
+- ✅ Completed full site testing.
 
-### Version 1.2.2
-- ✅ Discord server connection.
+### Version 1.2.2 — Released
+- ✅ Added Discord server connection.
+- ✅ Added the Discord icon to social links.
 
-### Version 1.2.3
-- ✅ Downloadable Wikitext Formatting Guide.
+### Version 1.2.3 — Released
+- ✅ Added the downloadable Wikitext Formatting Guide.
 - ✅ Fixed the Formatting Guide display on the Reference Library.
 - ✅ Added the PDF download link.
+- ✅ Updated the Reference Library and homepage version information.
 
 ### Version 1.2.4 — In Progress
 - ✅ Added a page entrance animation.
 - ⬜ Add further interactive visual elements, if needed.
+- ⬜ Complete testing and prepare the release.
 
-### Version 1.2.5
-- ⬜ Add information about Menu Infobox.
+### Version 1.2.5 — Planned
+
+#### Documentation Improvements
 - ⬜ Add information about highlighting Wiki syntax.
+- ⬜ Add information about Menu Infobox.
 - ⬜ Additional polish and improvements based on v1.2.4.
 
-### Future
-- More community-contributed documentation.
-- Additional editing examples.
-- Further improvements based on community feedback.
+### Version 1.3.0 — Planned
+
+#### Advanced Reference Library
+- ⬜ Create an Advanced Reference Library for more detailed editing resources.
+- ⬜ Add a guide on editing Build Mode content.
+- ⬜ Move selected advanced topics and resources from the main Reference Library into the Advanced Reference Library.
+- ⬜ Reorganize Menu Infobox information and Roblox API documentation into appropriate sections.
+- ⬜ Update images and examples throughout the documentation.
+- ⬜ Improve navigation between the main Reference Library and the Advanced Reference Library.
+- ⬜ Review the overall documentation structure and improve usability.
+
+### Future — Under Consideration
+- Explore more community-contributed guides.
+- Add additional useful editing examples.
+- Continue improving documentation based on community feedback.
 - Explore turning Akcent Docs into a community hub.
-- Explore an AI assistant for helping users with Wikitext and Restaurant Tycoon 3 Wiki editing.
-- 
+- Consider an AI assistant for helping users with Wikitext and Restaurant Tycoon 3 Wiki editing.
+
 ---
 
 Thank you to everyone who has contributed to **Akcent Docs** and helped improve the documentation for the Restaurant Tycoon 3 Wiki community.
