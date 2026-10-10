@@ -206,6 +206,25 @@ h6,
   border-radius: 6px;
 }
 
+/* Keep Starlight's built-in Expressive Code copy buttons
+   consistent with the Akcent Docs theme. */
+.expressive-code .copy button {
+  border-radius: var(--ak-radius-small);
+  transition:
+    border-color var(--ak-transition),
+    background-color var(--ak-transition),
+    color var(--ak-transition);
+}
+
+.expressive-code .copy button:hover {
+  border-color: var(--sl-color-accent);
+}
+
+.expressive-code .copy button:focus-visible {
+  outline: 2px solid var(--sl-color-accent);
+  outline-offset: 2px;
+}
+
 /* ==========================================================
    Images
 ========================================================== */
