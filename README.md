@@ -9,6 +9,10 @@ https://akcent-docs.pages.dev
 📂 **GitHub**
 
 https://github.com/AkcentG/akcent-docs
+
+🖥️ **Discord**
+
+  https://discord.gg/EzySztb9jE
 ## Features
 
 - Beginner-friendly editing guides
@@ -168,8 +172,7 @@ Please read **CONTRIBUTING.md** before submitting a pull request.
 
 ### 🚧 In Progress
 
-- Expanded reference library
-- Community contributions
+Nothing at the moment but check roadmap 
 
 ---
 

@@ -4,6 +4,8 @@ First of all, thank you for considering contributing to **Akcent Docs**!
 
 This project exists to help the Restaurant Tycoon 3 Wiki community by providing clear, accurate, and beginner-friendly documentation. Every contribution—whether it's fixing a typo or writing a new guide—is appreciated.
 
+Join our discord to get yourself verified and you will be able to be in credits - https://discord.gg/EzySztb9jE
+
 ---
 
 # 📖 Before You Start

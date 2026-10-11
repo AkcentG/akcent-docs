@@ -12,9 +12,11 @@ The format is based on **Keep a Changelog**, and this project follows **Semantic
 
 #### Added
 - Added a page entrance animation to improve the navigation experience.
+- Styled the existing code-block copy buttons to match the Akcent Docs theme.
 
 #### Remaining
 - Add further interactive visual elements, if needed.
+- Complete final testing and prepare the release.
 
 ### Planned for v1.2.5
 - Add information about Menu Infobox.
