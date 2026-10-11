@@ -8,34 +8,19 @@ The format is based on **Keep a Changelog**, and this project follows **Semantic
 
 ## [Unreleased]
 
-### v1.2.4 — In Progress
+No unreleased changes yet.
 
-#### Added
+---
+
+## [1.2.4] - 2026-10-11
+
+### Added
 - Added a page entrance animation to improve the navigation experience.
 - Styled the existing code-block copy buttons to match the Akcent Docs theme.
 
-#### Remaining
-- Add further interactive visual elements, if needed.
-- Complete final testing and prepare the release.
-
-### Planned for v1.2.5
-- Add information about Menu Infobox.
-- Add information about highlighting Wiki syntax.
-- Additional polish and improvements based on v1.2.4.
-
-### Planned for v1.3.0
-- Create an Advanced Reference Library.
-- Add a guide on editing Build Mode content.
-- Move selected advanced topics and resources from the main Reference Library to the Advanced Reference Library.
-- Move Menu Infobox information and Roblox API documentation into the appropriate sections.
-- Update images and examples throughout the documentation.
-- Improve navigation and organization of advanced resources.
-
-### Future
-- More community-contributed guides.
-- Additional useful editing examples.
-- Further improvements based on community feedback.
-- Explore turning Akcent Docs into a community hub.
+### Improved
+- Improved the visual consistency of code-block copy buttons.
+- Updated the package version and homepage version information.
 
 ---
 
@@ -212,7 +197,7 @@ The first public release of **Akcent Docs**.
 - Responsive layout.
 - Dark mode support.
 - Beginner-friendly documentation.
-- Helpful Images  
+- Helpful images.
 
 ---
 
@@ -220,8 +205,8 @@ The first public release of **Akcent Docs**.
 
 | Version | Status | Release Date | Description |
 |---|---|---|---|
-| **1.2.4** | 🚧 In Progress | — | Page entrance animation and planned interactive visual improvements |
-| **1.2.3** | ✅ Current | 2026-09-28 | Downloadable Wikitext Formatting Guide and Reference Library fixes |
+| **1.2.4** | ✅ Current | 2026-10-11 | Page entrance animation and code-block copy button styling |
+| **1.2.3** | 📦 Stable | 2026-09-28 | Downloadable Wikitext Formatting Guide and Reference Library fixes |
 | **1.2.2** | 📦 Stable | 2026-09-21 | Discord server connection and roadmap update |
 | **1.2.1** | 📦 Stable | 2026-09-05 | Spelling and repository improvements |
 | **1.2.0** | 📦 Stable | 2026-09-04 | Roblox API, screenshot guides, and Reference Library improvements |
@@ -253,17 +238,18 @@ The first public release of **Akcent Docs**.
 - ✅ Added the PDF download link.
 - ✅ Updated the Reference Library and homepage version information.
 
-### Version 1.2.4 — In Progress
+### Version 1.2.4 — Released
 - ✅ Added a page entrance animation.
-- ⬜ Add further interactive visual elements, if needed.
-- ⬜ Complete testing and prepare the release.
+- ✅ Styled the existing code-block copy buttons to match the Akcent Docs theme.
+- ✅ Updated package and homepage version information.
+- ✅ Completed production build and release preparation.
 
 ### Version 1.2.5 — Planned
 
 #### Documentation Improvements
 - ⬜ Add information about highlighting Wiki syntax.
 - ⬜ Add information about Menu Infobox.
-- ⬜ Additional polish and improvements based on v1.2.4.
+- ⬜ Make additional polish and usability improvements based on v1.2.4.
 
 ### Version 1.3.0 — Planned
 
